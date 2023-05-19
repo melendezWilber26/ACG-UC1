@@ -1,0 +1,14 @@
+body {
+    background: linear-gradient(rgba(83, 3, 3, 0.8), rgba(187, 135, 221, 0.7)), url(./fondoDota.jpg); 
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: 'Milonga', cursive;
+}
+
+@font-face {
+    font-family: 'Milonga', cursive;
+    src: url('https://fonts.googleapis.com/css2?family=Milonga&display=swap');
+}
+
+
